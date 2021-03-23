@@ -17,6 +17,6 @@ public class RectangleChecker {
         if ((angleA == 90) || (angleB == 90) || ((angleA + angleB) == 90)) {
             return "A triangle with such angles exists and it's rectangular";
         }
-        return "A triangle with such angles is exists";
+        return "A triangle with such angles isexists";
     }
 }
